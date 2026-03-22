@@ -24,7 +24,7 @@ src/
 
 **htmlsite.py** is a single 65-line Python file that depends only upon the [Jinja2 templating engine](https://jinja.palletsprojects.com/en/stable/) and tools within the Python standard library. 
 
-Installation means [pip installing Jinja2](https://pypi.org/project/Jinja2/), dropping the [htmlsite.py file]() into your codebase, and running it with Python 3.7+. 
+Installation means [pip installing Jinja2](https://pypi.org/project/Jinja2/), dropping the [htmlsite.py file](https://github.com/Codyvanzandt/htmlsite.py/blob/main/htmlsite.py) into your codebase, and running it with Python 3.7+. 
 
 ## Usage
 
