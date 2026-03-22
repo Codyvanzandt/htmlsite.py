@@ -1,0 +1,14 @@
+{% extends "_templates/base.html" %}
+{% block content %}
+    <h1>Welcome to the <em>Multipage</em> Example Site</h1>
+    <p>This example is identical to the <em>Directories</em> example, but adds a second page: /about/.</p>
+    <p>The /about/ page is created by adding a new directory, "about/", and placing an index.html file in it.</p>
+    <pre>src/
+├── _partials/
+│   └── navbar.html
+├── _templates/
+│   └── base.html
+├── about/
+│   └── index.html
+└── index.html</pre>
+{% endblock %}

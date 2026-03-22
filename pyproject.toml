@@ -1,0 +1,9 @@
+[project]
+name = "htmlsite-py"
+version = "0.1.0"
+description = "The simplest static site generator. Partials and templates for your HTML files. No config, no framework, no magic."
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "jinja2>=3.1.6",
+]
